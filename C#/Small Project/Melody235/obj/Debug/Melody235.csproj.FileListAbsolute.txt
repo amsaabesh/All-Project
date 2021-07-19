@@ -1,0 +1,15 @@
+E:\Target Project\Melody235\bin\Debug\Melody235.exe.config
+E:\Target Project\Melody235\bin\Debug\Melody235.exe
+E:\Target Project\Melody235\bin\Debug\Melody235.pdb
+E:\Target Project\Melody235\obj\Debug\Melody235.csprojAssemblyReference.cache
+E:\Target Project\Melody235\obj\Debug\Melody235.Form1.resources
+E:\Target Project\Melody235\obj\Debug\Melody235.Properties.Resources.resources
+E:\Target Project\Melody235\obj\Debug\Melody235.csproj.GenerateResource.cache
+E:\Target Project\Melody235\obj\Debug\Melody235.csproj.CoreCompileInputs.cache
+E:\Target Project\Melody235\obj\Debug\Melody235.exe
+E:\Target Project\Melody235\obj\Debug\Melody235.pdb
+E:\Target Project\Melody235\bin\Debug\Interop.WMPLib.dll
+E:\Target Project\Melody235\bin\Debug\AxInterop.WMPLib.dll
+E:\Target Project\Melody235\obj\Debug\Interop.WMPLib.dll
+E:\Target Project\Melody235\obj\Debug\AxInterop.WMPLib.dll
+E:\Target Project\Melody235\obj\Debug\Melody235.csproj.ResolveComReference.cache

@@ -1,0 +1,20 @@
+E:\Target Project C#\Small Project\Mash02\bin\Debug\Mash02.exe.config
+E:\Target Project C#\Small Project\Mash02\bin\Debug\Mash02.exe
+E:\Target Project C#\Small Project\Mash02\bin\Debug\Mash02.pdb
+E:\Target Project C#\Small Project\Mash02\obj\Debug\Mash02.csprojAssemblyReference.cache
+E:\Target Project C#\Small Project\Mash02\obj\Debug\Mash02.Form1.resources
+E:\Target Project C#\Small Project\Mash02\obj\Debug\Mash02.Properties.Resources.resources
+E:\Target Project C#\Small Project\Mash02\obj\Debug\Mash02.csproj.GenerateResource.cache
+E:\Target Project C#\Small Project\Mash02\obj\Debug\Mash02.csproj.CoreCompileInputs.cache
+E:\Target Project C#\Small Project\Mash02\obj\Debug\Mash02.exe
+E:\Target Project C#\Small Project\Mash02\obj\Debug\Mash02.pdb
+E:\Target Project\C#\Small Project\Mash02\bin\Debug\Mash02.exe.config
+E:\Target Project\C#\Small Project\Mash02\bin\Debug\Mash02.exe
+E:\Target Project\C#\Small Project\Mash02\bin\Debug\Mash02.pdb
+E:\Target Project\C#\Small Project\Mash02\obj\Debug\Mash02.csprojAssemblyReference.cache
+E:\Target Project\C#\Small Project\Mash02\obj\Debug\Mash02.Form1.resources
+E:\Target Project\C#\Small Project\Mash02\obj\Debug\Mash02.Properties.Resources.resources
+E:\Target Project\C#\Small Project\Mash02\obj\Debug\Mash02.csproj.GenerateResource.cache
+E:\Target Project\C#\Small Project\Mash02\obj\Debug\Mash02.csproj.CoreCompileInputs.cache
+E:\Target Project\C#\Small Project\Mash02\obj\Debug\Mash02.exe
+E:\Target Project\C#\Small Project\Mash02\obj\Debug\Mash02.pdb

@@ -1,0 +1,10 @@
+E:\Code\C_Sharp\Rock_Paper_Scissor\bin\Debug\Rock_Paper_Scissor.exe.config
+E:\Code\C_Sharp\Rock_Paper_Scissor\bin\Debug\Rock_Paper_Scissor.exe
+E:\Code\C_Sharp\Rock_Paper_Scissor\bin\Debug\Rock_Paper_Scissor.pdb
+E:\Code\C_Sharp\Rock_Paper_Scissor\obj\Debug\Rock_Paper_Scissor.csprojAssemblyReference.cache
+E:\Code\C_Sharp\Rock_Paper_Scissor\obj\Debug\Rock_Paper_Scissor.RPS.resources
+E:\Code\C_Sharp\Rock_Paper_Scissor\obj\Debug\Rock_Paper_Scissor.Properties.Resources.resources
+E:\Code\C_Sharp\Rock_Paper_Scissor\obj\Debug\Rock_Paper_Scissor.csproj.GenerateResource.cache
+E:\Code\C_Sharp\Rock_Paper_Scissor\obj\Debug\Rock_Paper_Scissor.csproj.CoreCompileInputs.cache
+E:\Code\C_Sharp\Rock_Paper_Scissor\obj\Debug\Rock_Paper_Scissor.exe
+E:\Code\C_Sharp\Rock_Paper_Scissor\obj\Debug\Rock_Paper_Scissor.pdb
